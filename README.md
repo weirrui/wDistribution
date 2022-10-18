@@ -1,5 +1,3 @@
-# wDistribution
-
 # overview
 This is the code for computing weighted sample distribution, the weighted empirical distribution is obtained. This method is simple, easy to use and understand.
 
