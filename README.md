@@ -7,6 +7,8 @@ For the weighted empirical distribution, first calculate the mean and variance o
 ## Data Import and Analysis
 The function of matlab function is function [output variable] = function name （input variable）
 
+In this case, the input variable is X(data), W(weight) and edges; the output variable is ctX and N(normalization to pdf) 
+
 ## Installation
 To install any release version of MATLAB
 
